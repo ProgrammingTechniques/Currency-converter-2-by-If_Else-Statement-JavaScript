@@ -1,2 +1,5 @@
-# Currency-converter-2-by-If_Else-Statement-JavaScript
-In JavaScript Programming, Dynamic Currency Converter by If Else Statement
+- # Dynamic Currency-converter-2-by-If_Else-Statement-JavaScript
+- In JavaScript Programming, Dynamic Currency Converter by If Else Statement
+- Yet, 5 Currency are inbuilt in this program
+- Best Example of If Else Statement in JavaScript...
+- Thank you........
